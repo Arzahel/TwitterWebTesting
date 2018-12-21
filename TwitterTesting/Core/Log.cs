@@ -25,6 +25,11 @@ namespace TwitterTesting
             writer.Close();
         }
 
+        public void Trace()
+        {
+
+        }
+
         //логирование в консоль
         //имена веб-элементов
         //скриншоты при ошибке через try-catch или в setup
